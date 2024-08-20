@@ -1,0 +1,47 @@
+body{
+    overflow-y: auto;
+}
+
+.infotest{
+
+   
+    border-radius: 8px;
+    padding: 20px;
+
+    
+    background-color: rgb(185, 210, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.videotest{
+    width: 200px;
+    height: 100px;
+   
+    
+    
+
+}
+.infotest h3{
+    line-height: 2;
+}
+.maintest{
+    padding: 20px;
+   
+    width: 100%;
+    display: flex;
+}
+
+.mainleft{
+    width: 70%;
+    position: relative;
+
+}
+.mainright{
+   
+    width: 30%;
+  
+
+
+}
